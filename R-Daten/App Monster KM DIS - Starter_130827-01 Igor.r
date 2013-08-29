@@ -5,10 +5,10 @@ dyn.load("C:/micro-biolytics/Firmen und Projekte/Q-Food/QFood002C - Monster Ener
 
 
 setwd("C:/micro-biolytics/Firmen und Projekte/Q-Food/QFood002E - diverse Softdrinks/R-Daten")
-load("130827 - DivDrinks EU Validierungsmessungen für RunDIS.rlist")
+load("130827 - DivDrinks EU Validierungsmessungen fÃ¼r RunDIS.rlist")
 
 setwd("C:/micro-biolytics/Firmen und Projekte/Q-Food/QFood002D - Konservierungsmittel/R-Daten")
-load("130827 - Monster EU Validierungsmessungen für RunDIS.rlist")
+load("130827 - Monster EU Validierungsmessungen fÃ¼r RunDIS.rlist")
 
 
 
